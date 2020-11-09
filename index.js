@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BETA BOT'; 
-const instagram = 'https://instagram.com/mwmaulana310'; 
-const telegram = 'https://t.me/bukanuserbiasa'; 
+const BotName = 'ARIA Bot 🤖'; 
+const instagram = 'https://instagram.com/ini.aria'; 
+const telegram = 'https://t.me/ariaptra1'; 
 const kapanbotaktif = '24 JAM'; 
-const youtube = 'https://www.youtube.com/channel/UCjiMmwBiimdJthhXOQXijOg';
+const youtube = 'https://m.youtube.com/channel/UCUxq0mwnbl5Hwid2PkdMD-Q';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
